@@ -8,8 +8,8 @@
 
 #Entrega: Trabalhando em equipe com git.
 
-## Fato sobre <nome do dev>
+## Fato sobre <Sean Correa>
 
-1. O seu Nome;
-2. Um pouco sobre você;
-3. Comentário sobre o seu relacionamento com a TI;
+1. Sean de Moraes Correa;
+2. Fiz parte do sub15 do Flamengo, e fiz uma peça de teatro atuando como travesti;
+3. Vem desde criança por conta do meu irmao ser programador e me ensinar as coisas;
