@@ -1,0 +1,17 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <Anthony>
+
+1. Anthony Alves;
+2. Eu sou uma pessoa simples, gosto de jogar video game, estudar, sair com amigos, alem de tudo amo desenvolvimento de softwares;
+3. Minha relação com a TI vem desde minha infancia, fiz alguns cursos de hardware, hoje em dia eu mesmo conserto meu pc, área de TI pra mim é tudo;
+
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <nome do dev>
+
+1. O seu Nome;
+2. Um pouco sobre você;
+3. Comentário sobre o seu relacionamento com a TI;
+
+
